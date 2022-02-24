@@ -1,4 +1,4 @@
-package br.com.alura.loja.commands;
+package br.com.alura.loja.commands.actions;
 
 import br.com.alura.loja.pedido.Pedido;
 

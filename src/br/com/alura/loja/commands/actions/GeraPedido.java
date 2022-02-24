@@ -1,6 +1,6 @@
-package br.com.alura.loja.pedido;
+package br.com.alura.loja.commands.actions;
 
-import br.com.alura.loja.commands.Action;
+import br.com.alura.loja.commands.actions.Action;
 
 import java.math.BigDecimal;
 

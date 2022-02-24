@@ -1,5 +1,7 @@
 package br.com.alura.loja.commands;
 
+import br.com.alura.loja.commands.actions.Action;
+
 public abstract class CommandHandler<T extends Action> {
     protected CommandHandler proximoHandler;
     protected Action acaoProxima;
